@@ -3,6 +3,11 @@
   "displayName": "close-all-but-this",
   "description": "Command to close all tabs except for the active one",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomasr8/vscode-close-all-but-this.git"
+  },
+  "icon": "vscode-logo.png",
   "engines": {
     "vscode": "^1.74.0"
   },
