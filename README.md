@@ -13,8 +13,6 @@ This extension does not include any settings but you can bind the command to a k
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
-
 ### 0.0.1
 
 Initial release
