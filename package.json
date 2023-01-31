@@ -2,7 +2,7 @@
   "name": "close-all-but-this",
   "displayName": "close-all-but-this",
   "description": "Command to close all tabs except for the active one",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "tomasr8",
   "repository": {
     "type": "git",
